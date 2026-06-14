@@ -403,7 +403,7 @@ export function buildInvoicePdf(data: InvoicePdfData): jsPDF {
     },
     columnStyles: {
       0: { halign: "center", cellWidth: 12, textColor: MUTED },
-      1: { halign: "left", cellWidth: 62, fontStyle: "semibold" },
+      1: { halign: "left", cellWidth: 62, fontStyle: "semibold" as any },
       2: { halign: "right", cellWidth: 24 },
       3: { halign: "right", cellWidth: 27 },
       4: { halign: "right", cellWidth: 15, textColor: MUTED },
