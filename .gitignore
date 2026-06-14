@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.next-*/
+out/
+*.log
+.env*.local
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# verschachteltes Duplikat / Build-Arbeitsordner
+/zukunft-mit-ki-admin/
+.DS_Store

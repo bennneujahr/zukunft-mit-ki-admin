@@ -1,0 +1,13 @@
+{
+  "framework": "nextjs",
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SUPABASE_URL": "https://bqceuzikgouyvnloiadn.supabase.co",
+      "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJxY2V1emlrZ291eXZubG9pYWRuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNjE5MDYsImV4cCI6MjA5NTYzNzkwNn0.ZR-8pggeTGoDHljze9txBGsvp2lyzALmmDAnTBlu-8w"
+    }
+  },
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://bqceuzikgouyvnloiadn.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJxY2V1emlrZ291eXZubG9pYWRuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNjE5MDYsImV4cCI6MjA5NTYzNzkwNn0.ZR-8pggeTGoDHljze9txBGsvp2lyzALmmDAnTBlu-8w"
+  }
+}
